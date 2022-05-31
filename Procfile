@@ -1,0 +1,1 @@
+web: gunicorn arabfontproject.wsgi --log-file -
